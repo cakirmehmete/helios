@@ -3,7 +3,7 @@ import { PremiumizeTransferCreateDto } from '../../dtos/transfer/premiumize-tran
 
 export class PremiumizeTransferCreateForm {
   static submit(torrentUrl: string) {
-    return PremiumizeApiService.post<PremiumizeTransferCreateDto>('/transfer/create', {
+    return PremiumizeApiService.post<PremiumizeTransferCreateDto>('/transfer11/create', {
       src: torrentUrl,
       folder_id: "13Al-66ZXbKNxAL1b0alfg"
     });
