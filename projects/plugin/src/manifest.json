@@ -1,10 +1,10 @@
 {
   "$schema": "../../../node_modules/@wako-app/mobile-sdk/dist/manifest-schema.json",
-  "version": "4.1.7",
+  "version": "4.1.8",
   "id": "plugin.helios",
   "name": "Helios",
   "description": "Helios is a source finder, it scrapes third-party sites (called providers) that are publicly available on the internet.",
-  "author": "Davy",
+  "author": "Davy - test",
   "actions": ["movies", "episodes", "episodes-item-option", "file-explorer"],
   "entryPointV2": "https://raw.githubusercontent.com/cakirmehmete/helios/master/dist/plugin.js",
   "entryPoint": "https://raw.githubusercontent.com/cakirmehmete/helios/old-wako/dist/plugin.js",
