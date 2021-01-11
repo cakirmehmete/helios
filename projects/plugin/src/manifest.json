@@ -15,7 +15,7 @@
     "el": "https://raw.githubusercontent.com/cakirmehmete/helios/master/dist/i18n/el.json"
   },
   "changeLogs": {
-    "4.1.7": "Fix PM issue due to wako's sdk update",
+    "4.1.7": "testFix PM issue due to wako's sdk update",
     "4.1.6": "Handle AD file explorer feature",
     "4.1.3": "Handle 'Go', 'Mo', 'Ko' size prefix",
     "4.1.2": "Fix AD toggle issue",
