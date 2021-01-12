@@ -1,10 +1,10 @@
 {
   "$schema": "../../../node_modules/@wako-app/mobile-sdk/dist/manifest-schema.json",
-  "version": "4.1.8.1",
+  "version": "4.1.7.1",
   "id": "plugin.helios",
   "name": "Helios",
   "description": "Helios is a source finder, it scrapes third-party sites (called providers) that are publicly available on the internet.",
-  "author": "Davy - test",
+  "author": "Davy - e",
   "actions": ["movies", "episodes", "episodes-item-option", "file-explorer"],
   "entryPointV2": "https://raw.githubusercontent.com/cakirmehmete/helios/master/dist/plugin.js",
   "entryPoint": "https://raw.githubusercontent.com/cakirmehmete/helios/old-wako/dist/plugin.js",
@@ -15,7 +15,8 @@
     "el": "https://raw.githubusercontent.com/cakirmehmete/helios/master/dist/i18n/el.json"
   },
   "changeLogs": {
-    "4.1.7": "testFix PM issue due to wako's sdk update",
+    "4.1.7.1": "Custom Folder",
+    "4.1.7": "Fix PM issue due to wako's sdk update",
     "4.1.6": "Handle AD file explorer feature",
     "4.1.3": "Handle 'Go', 'Mo', 'Ko' size prefix",
     "4.1.2": "Fix AD toggle issue",
